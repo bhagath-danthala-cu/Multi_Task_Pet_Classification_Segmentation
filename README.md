@@ -12,7 +12,7 @@ Multi-Task Pet Classification Segmentation is a multi-task computer vision proje
   Designed to run efficiently on limited hardware, with room for extension to larger architectures or additional tasks.
 ---
 TO Run the code:
-add the dataset into the google collab
+add the dataset into the google collab. 
 To download the dataset copy the below link and paste in any browser:
 https://www.robots.ox.ac.uk/~vgg/data/pets/
 
