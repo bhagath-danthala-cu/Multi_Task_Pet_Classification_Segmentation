@@ -1,6 +1,6 @@
 # Multi Task Pet Classification & Segmentation
 
-**Multi_Task_Pet_Classification_Segmentation** is a multi-task computer vision project that performs simultaneous **classification** and **semantic segmentation** of pets in images. This project aims to offer an efficient and effective pipeline to identify pet breeds (classification) and segment their outlines or bodies (segmentation) concurrently.
+Multi-Task Pet Classification Segmentation is a multi-task computer vision project that performs simultaneous **classification** and **semantic segmentation** of pets in images. This project aims to offer an efficient and effective pipeline to identify pet breeds (classification) and segment their outlines or bodies (segmentation) concurrently.
 ---
 ##  Features
 - **Dual-Task Pipeline**  
